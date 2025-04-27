@@ -5,7 +5,7 @@ Este projeto exibe as cotações de várias moedas e criptomoedas em tempo real,
 ##Motivação
 
 - Identifiquei que precisava de um projeto de web scraping para meu portifólio e decidi desenvolver este simples.
-- Usar e treinar codificação com IA's, pois acredito que futuramente os programadores apenas direcionaram para o rumo que querem e as IA's desevolverão tudo. Nesse projeto foi usada a IA para identação, comentários, tratamentos de erros e para a parte do código que eu não tinha domínio que é a do matplotlib, ela fez tudo isso e eu ajustei no meu código.
+- Usei e treinei codificação com IA's, pois acredito que futuramente os programadores apenas direcionaram para o rumo que querem e as IA's desevolverão tudo. Nesse projeto foi usada a IA para identação, comentários, tratamentos de erros e para a parte do código que eu não tinha domínio que é a do matplotlib, ela fez tudo isso e eu ajustei no meu código.
 
 ## Funcionalidades
 
