@@ -1,6 +1,11 @@
 # Cotação de Moedas e Criptomoedas
 
-Este projeto exibe as cotações de várias moedas e criptomoedas em tempo real, usando uma interface gráfica.
+Este projeto exibe as cotações de várias moedas e criptomoedas em tempo real, e cria uma interface gráfica.
+
+##Motivação
+
+- Identifiquei que precisava de um projeto de web scraping para meu portifólio e decidi desenvolver este simples.
+- Usar e treinar codificação com IA's, pois acredito que futuramente os programadores apenas direcionaram para o rumo que querem e as IA's desevolverão tudo. Nesse projeto foi usada a IA para identação, comentários, tratamentos de erros e para a parte do código que eu não tinha domínio que é a do matplotlib, ela fez tudo isso e eu ajustei no meu código.
 
 ## Funcionalidades
 
@@ -19,27 +24,22 @@ Este projeto exibe as cotações de várias moedas e criptomoedas em tempo real,
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/SEU_USUARIO/Cotacao-Moedas-Criptos.git
-   
+   `git clone https://github.com/GabMatheus/web_scraping.git`
+
 2. Instale as dependências:
 
-   ```bash
-   pip install requests PyQt5 matplotlib
+   `pip install requests PyQt5 matplotlib`
 
 3. Execute o projeto:
 
- ```bash
-   python rasp_moedas.py
-```
+   `python rasp_moedas.py`
 
-##Como Contribuir
+## Como Contribuir
 
-Faça um fork do projeto.
+1. Faça um fork do projeto.
+2. Crie uma nova branch para suas alterações.
+3. Envie um pull request.
 
-Crie uma nova branch para suas alterações.
+## Licença
 
-Envie um pull request.
-
-Licença
 MIT
